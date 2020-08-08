@@ -1,7 +1,11 @@
-#Cleaning Lady List
-##Documentation
+# Cleaning Lady List
+## Documentation
 
-#### Running locally
-start `docker-compose build`
+### Running locally
+
+1. `cp .env .env.local`
+2. builder Docker  `docker-compose build`
+3.
+
 
 stop `docker-compose down`
